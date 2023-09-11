@@ -1,7 +1,6 @@
+# Block DNS para una app de mierda de Android.
 # Facebook
-
-
-*.facebook.com
+facebook.com
 *.facebook.net
 facebook.com
 *.fbcdn.net
