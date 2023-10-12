@@ -17,6 +17,11 @@ cdninstagram.com
 
 *.snapchat.com
 snapchat.com
+*.sc-cdn.net
+sc-cdn.net
+*.sc-gw.com
+sc-gw.com
+
 
 # Tinder and Dating
 *.tinder.com
