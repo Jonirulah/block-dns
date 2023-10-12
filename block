@@ -12,7 +12,11 @@ facebook.com
 # Instagram
 *.instagram.com
 instagram.com
+cdninstagram.com
 *.cdninstagram.com
+
+*.snapchat.com
+snapchat.com
 
 # Tinder and Dating
 *.tinder.com
@@ -35,6 +39,12 @@ bereal.team
 bereal.com
 
 # TikTok
+tiktokv.com
+tiktok.com
+tiktokcdn.com
+ttlivecdn.com
+tiktokcdn-us.com
+
 *.tiktok.com
 *.tiktokv.com
 *.tiktokcdn.com
