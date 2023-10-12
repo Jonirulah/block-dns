@@ -49,10 +49,11 @@ tiktok.com
 tiktokcdn.com
 ttlivecdn.com
 tiktokcdn-us.com
+tiktokcdn-eu.com
 
+*.tiktokcdn-eu.com
 *.tiktok.com
 *.tiktokv.com
 *.tiktokcdn.com
 *.ttlivecdn.com
-tiktok.com
 *.tiktokcdn-us.com
